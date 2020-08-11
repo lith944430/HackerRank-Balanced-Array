@@ -1,6 +1,6 @@
 # HackerRank-Balanced-Array
 
-[Balanced Array HackerRank solution](https://www.hackerrank.com/contests/world-codesprint-11/challenges/balanced-array)
+### [Balanced Array HackerRank solution](https://www.geeksforgeeks.org/find-element-array-sum-left-array-equal-sum-right-array/)
 
 Given an array of numbers, find index of smallest array element(the pivot), for which the sums of all elements to the left and to the right are equal. The array may not be reordered.
 
